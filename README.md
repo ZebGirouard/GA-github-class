@@ -1,1 +1,3 @@
-# GA-github-class
+# GA Github Class
+
+## Because GitHub
